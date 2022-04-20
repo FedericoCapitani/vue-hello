@@ -4,7 +4,8 @@ const app = new Vue(
     {
         el: '#app',
         data:{
-            message: 'messaggio da stampare'
+            message: 'messaggio da stampare',
+            url_img: 'https://picsum.photos/200/300'
         }
     }
 )
